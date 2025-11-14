@@ -24,13 +24,13 @@
   "dependencies": {
     "callsites": "~3.1.0",
     "jest-cli": "^27.0.3",
-    "jest-cucumber": "^3.0.2"
+    "jest-cucumber": "^4.5.0"
   },
   "devDependencies": {
     "codecov": "~4.0.0-0",
     "cz-conventional-changelog": "^3.3.0",
     "prettier": "2.3.2",
-    "semantic-release": "^17.4.3"
+    "semantic-release": "^19.0.3"
   },
   "publishConfig": {
     "access": "public"
